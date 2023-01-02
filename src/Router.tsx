@@ -10,12 +10,6 @@ export function Router() {
         <Route path="/" element={<Home />} />
         <Route path="/history" element={<History />} />
       </Route>
-
-      {/* This layout will be applied to all after /admin/...      
-      <Route path="/admin" element={<AdminLayout />}>
-        ...
-      </Route> 
-      */}
     </Routes>
   )
 }
