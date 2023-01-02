@@ -13,7 +13,7 @@ Some functionalities of this Timer:
 ###### Knowledges used:
 
 - Application Structure (Styled Components, Global Styles (colors, fonts and types), ESLint)
-- 
+- Forms (React Hook Form, Validations)
 
 #### Techs:
 
