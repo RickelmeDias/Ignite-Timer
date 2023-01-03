@@ -21,6 +21,9 @@ Some functionalities of this Timer:
 - Hooks (useEffect, useState)
 - ContextAPI (contextCreate, useContext) to solve Prop Drilling situation
 - Date Format (date-fns lib)
+- Reducer (useReducer, actions, reducers)
+- ImmerJS immutable state by mutating the current one, for refatoring of large map sintax
+- LocalStorage
 
 #### Techs:
 
