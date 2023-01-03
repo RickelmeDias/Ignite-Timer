@@ -8,12 +8,19 @@ Challenge: Create SPA using ReactJS
 
 Some functionalities of this Timer:
 
-- 
+- Add task name
+- Add task time to the task
+- Start timer/task
+- Interrupt timer/task
+- Custom table with timers and informations (running, stopped and finished)
 
 ###### Knowledges used:
 
 - Application Structure (Styled Components, Global Styles (colors, fonts and types), ESLint)
 - Forms (React Hook Form, Validations)
+- Hooks (useEffect, useState)
+- ContextAPI (contextCreate, useContext) to solve Prop Drilling situation
+- Date Format (date-fns lib)
 
 #### Techs:
 
